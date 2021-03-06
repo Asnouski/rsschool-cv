@@ -13,7 +13,7 @@ Junior JavaScript Developer with technical degree and 5-years experience in cons
 ### Skills
 * JavaScript
 *	Modularity and OOP
-*	HTML5,CSS3
+*	HTML5, CSS3
 *	Pre-processors SaSS/ScSS
 *	WebPack
 *	Visual Studio Code
