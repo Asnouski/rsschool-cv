@@ -1,0 +1,18 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+}
+header, main{
+	max-width: 800px;
+	margin: 0 auto;
+}
+h1, h2, h3{
+	text-align: center;
+}
+img{
+	height: 200px;
+}
+.contacts{
+	display: flex;
+	justify-content: space-between;
+}
