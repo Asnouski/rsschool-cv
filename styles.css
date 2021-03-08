@@ -2,17 +2,43 @@
 	box-sizing: border-box;
 	margin: 0;
 }
-header, main{
+header, main,footer{
 	max-width: 800px;
 	margin: 0 auto;
 }
+section, footer{
+	border-top: solid 1px lightgrey;
+	margin-top: 10px;
+	padding-top: 10px;
+}
 h1, h2, h3{
-	text-align: center;
+	margin: 5px 0;
+}
+h4{
+	margin: 5px 0;
+}
+p{
+	text-align: justify;
+}
+.contacts{
+	display: flex;
+	flex-direction: column;
+/* 	justify-content: space-around; */
 }
 img{
 	height: 200px;
 }
-.contacts{
+.info{
+	display: flex;
+	justify-content: space-between;
+}
+.work .it{
+margin-bottom: 8px;
+}
+footer img{
+height: 50px;
+}
+footer {
 	display: flex;
 	justify-content: space-between;
 }
